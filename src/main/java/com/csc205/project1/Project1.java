@@ -6,7 +6,7 @@ package com.csc205.project1;
  * @author Ray Hedgecock
  * @version 1.1
  */
-public class Project1 {
+public class Project1 extends Point {
 
     public static void main(String[] args) {
 
